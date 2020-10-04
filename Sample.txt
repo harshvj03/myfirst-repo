@@ -2,3 +2,10 @@ Testing git 2019
 
 Now it is 2020-Oct
 quite a long time
+
+Cloud : Can give any service, can contain servers, 
+
+Provides Iaas, Paas, Saas with encryption#
+
+On a cloud, direct interation with service but layer of isolation is there.
+
